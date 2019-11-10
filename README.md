@@ -5,7 +5,7 @@
 
 ## What is QueerDarkMode?
 
-QueerDarkMode is a CSS file packaged as an extension for Google Chrome, Firefox and Opera, which wraps the community design of the German LGBTQ+ platform DBNA in a dark garb. The design can be used on the desktop as well as in the mobile version of DBNA.
+QueerDarkMode is a CSS file packaged as an extension for Google Chrome, Firefox and Opera, which wraps the community design of the german queer-social platform DBNA in a dark garb. The design can be used on the desktop as well as in the mobile version of DBNA.
 
 ## How can I install it?
 
