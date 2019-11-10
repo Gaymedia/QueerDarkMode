@@ -11,7 +11,7 @@ QueerDarkMode is a CSS file packaged as an extension for Google Chrome, Firefox 
 
 Firefox and Opera users can easily install the addon using the following links:
 
-Firefox: https://addons.mozilla.org/de/firefox/addon/queerdarkmode/
+Firefox: https://addons.mozilla.org/de/firefox/addon/queerdarkmode/  
 Opera: https://addons.opera.com/de/extensions/details/queerdarkmode/
 
 **Google Chrome users please proceed as follows:**
