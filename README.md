@@ -14,7 +14,7 @@ Firefox and Opera users can easily install the addon using the following links:
 Firefox: https://addons.mozilla.org/de/firefox/addon/queerdarkmode/  
 Opera: https://addons.opera.com/de/extensions/details/queerdarkmode/
 
-**Google Chrome users please proceed as follows:**
+**Google Chrome users please proceed as follows:**  
 To install, simply download the contents of the repository and extract it to a location on your hard drive. Next you have to activate the developer mode under chrome://extensions/ in the upper right corner. Then you can select the folder with the data by clicking the button "Load unpacked extension" in the upper left corner. That's it.
 
 ## License
