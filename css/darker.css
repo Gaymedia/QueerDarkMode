@@ -1,0 +1,333 @@
+.stream .ui.card.flat, .ui.raised.card, .forum .card.flat, .forum .ui.segment, .ui.segment.create, .forum .categories .catlabel{
+    box-shadow: 1px 1px 5px 2px rgba(0,0,0, 0.20)!important;
+    border-radius: 7px;
+}
+body{
+    background-color: #1e272e!important;
+    color: white!important;
+}
+.sidebar aside .ui.borderless.vertical.navigation.menu{
+    background-color: #1e272e!important
+}
+.ui.header{
+    color: white!important
+}
+.sidebar aside .ui.vertical.menu .item a, .sidebar aside .ui.vertical.menu .item a:active, .sidebar aside .ui.vertical.menu .item a:hover, .sidebar aside .ui.vertical.menu .item a:visited{
+    color: white!important
+}
+.sidebar aside{
+    border-right: 1px solid #28333d!important
+}
+.link, .link a{
+    color: #b72bf1!important
+}
+.ui.secondary.pointing.menu .active.item, .ui.secondary.pointing.menu .active.item:hover{
+    border-color: #b72bf1!important
+}
+.ui.secondary.pointing.menu .active.item span, .ui.secondary.pointing.menu .active.item:hover span{
+    color: #b72bf1!important
+}
+i.grey.icon{
+    color: white!important
+}
+.ui.secondary.pointing.menu .item span{
+    color: white!important
+}
+.ui.segment, .ui.segments .segment{
+    background-color: #28333d!important
+}
+.ui.raised.card, .ui.raised.cards > .card{
+    background-color: #28333d!important;
+}
+.ui.card .meta, .ui.cards>.card .meta{
+    color: white!important;
+}
+.ui.card .meta *, .ui.cards>.card .meta *{
+    color: white!important;
+}
+.heartwrapper .heartcount{
+    color: white!important
+}
+.ui.comments .comment .metadata{
+    color: white!important;
+}
+.ui.comments .comment .text{
+    color: white!important;
+}
+.ui.card>.content>.header, .ui.cards>.card>.content>.header{
+    color: white!important;
+}
+.ui.form input:not([type]), .ui.form input[type=date], .ui.form input[type=datetime-local], .ui.form input[type=email], .ui.form input[type=file], .ui.form input[type=number], .ui.form input[type=password], .ui.form input[type=search], .ui.form input[type=tel], .ui.form input[type=text], .ui.form input[type=time], .ui.form input[type=url], .ui.formtextarea{
+    background: #212a32!important;
+}
+.ui.header .sub.header{
+    color: white!important;
+}
+.ui.list .list>.item .header, .ui.list>.item .header{
+    color: white!important;
+}
+.ui.list .list>.item .description, .ui.list>.item .description{
+    color: white!important;
+}
+.profile .profile.info.rightpanel{
+    background: #212a32!important;
+}
+.forum .list .header a{
+    color: white!important;
+}
+.forum .list .content .meta{
+    color: white!important;
+}
+.forum i.lightning.icon{
+    color: yellow!important
+}
+.ui.items>.item .meta>a:not(.ui){
+    color: white!important;
+}
+.forum.post .heading .content .metadata{
+    color: white!important;
+}
+.forum .commentcount span{
+    color: white!important;
+}
+.forum .commentcount i.icon{
+    color: white!important;
+}
+
+.forum .categories .catlabel {
+    color: white!important;
+    background-color: #28333d;
+}
+
+.ui.secondary.pointing.menu .active.item, .ui.secondary.pointing.menu .active.item{
+    color: #b72bf1!important
+}
+.sidebar aside .iconnavi{
+    color: #b72bf1!important
+}
+.item{
+    color: white!important
+}
+.ui.vertical.segment.footer{
+    background-color: rgba(0,0,0,0)!important;
+     color: white!important
+}
+.ui.form textarea{
+    background-color: #212a32!important;
+     color: white!important
+}
+.stream .ui.card.story .content.text .storybuttons button{
+    color: #b72bf1!important
+}
+.ui.horizontal.bulleted.list>.item:before, ul.ui.horizontal.bulleted.list li:before{
+    color: white!important
+}
+.profile .profile.info.leftpanel .profilicon{
+    color: #b72bf1!important
+}
+.ui.selection.dropdown{
+    background-color: #212a32!important
+}
+.ui.form .field>label{
+    color: white!important
+}
+.ui.dropdown .menu{
+    background-color: #212a32!important
+}
+.ui.menu .ui.dropdown .menu>.item>span{
+    color: white!important
+}
+.ui.menu .ui.dropdown .menu>.item{
+    color: white!important
+}
+.ui.menu .ui.dropdown .menu>.item>i{
+    color: white!important
+}
+.ui.top.pointing.dropdown>.left.menu:after, .ui.top.right.pointing.dropdown>.menu:after{
+    background-color: #212a32!important
+}
+.activitymodal > .header{
+    background-color: #28333d!important;
+     color: white!important;
+}
+.activitymodal>.content{
+    background-color: #1e272e!important;
+     color: white!important
+}
+.ui.feed>.event>.content .summary{
+    color: white!important;
+}
+.ui.feed>.event>.content .date{
+    color: white!important;
+}
+.ui.card>.extra, .ui.cards>.card>.extra{
+    color: white!important;
+}
+.messenger .wrapper .left-wrapper{
+    background-color: #1e272e!important;
+}
+.messenger .wrapper .left-wrapper{
+    background-color: #1e272e!important
+}
+.messenger .wrapper .right-wrapper .right-inner{
+    background-color: #1e272e!important
+}
+.messenger .wrapper .messenger-header .username{
+    color: white!important
+}
+.messenger .wrapper .right-wrapper .right-inner .content-wrapper .content-inner .scroll-visible > .messenger-scroll-inner{
+    background-color: #1e272e!important
+}
+.messenger .wrapper .right-wrapper .right-inner .tools{
+    background-color: #28333d!important
+}
+.messenger .wrapper .right-wrapper .right-inner .content-wrapper .content-inner .messenger-scroll .messenger-scroll-inner .itemdivider .ui.divider{
+    color: white!important
+}
+.ui.input>input{
+    color: white!important;
+    background-color: #28333d!important
+}
+.ui.checkbox input.hidden+label{
+    color: white!important;
+}
+.activitymodal .ui.feed.activity > .event.new{
+    background-color: rgba(130,130,140,0.2)!important
+}
+.ui.bottombar.menu .item {
+	background-color: #28333d !important;
+}
+.ui.bottombar.menu {
+	background-color: #28333d !important;
+}
+.messenger-mobile.fullheight {
+	background-color: #1e272e !important;
+}
+.messenger-scroll-inner {
+	background-color: #1e272e !important;
+}
+.messenger-mobile .wrapper .messenger-header {
+	background-color: #28333d !important;
+}
+.username {
+	color: white !important;
+}
+.home .stream .content.text .truncate .layer {
+	background-image: linear-gradient(#00000000, #28333d) !important;
+}
+.ui.placeholder {
+	background-color: #28333d !important;
+}
+.pointer, .extra, .description {
+	color: white !important;
+}
+.extra .description {
+	background-color: #28333d !important;
+}
+.ui.icon.message {
+	background-color: #28333d !important;
+}
+.ui.icon.message>.content {
+	color: white !important;
+}
+.ui.modal>.content {
+	background-color: #1e272e !important;
+}
+.profile .profile.info.rightpanel.ui.tertiary.attached.segment:not(:first-child) {
+	background-color: #212a32 !important;
+}
+.threadtitle {
+	color: white !important;
+}
+.messenger-mobile .wrapper .right-inner .content-wrapper .content-inner .messenger-scroll .messenger-scroll-inner .itemdivider .ui.divider {
+	color: white !important;
+}
+.ui.comments .commentsDisabled {
+	color: white !important;
+}
+.ui.inverted.dimmer {
+	background-color: #1e272e !important;
+}
+.placeholder.box {
+	background-image: linear-gradient(to bottom, #28333d 0%, #28333d 100%) !important;
+}
+.ui.card, .ui.cards > .card {
+	box-shadow: 0 1px 3px 0 #212a32, 0 0 0 1px #212a32 !important;
+}
+blockquote {
+	background-color: #212a32 !important;
+}
+.forum.post blockquote p {
+    color: white !important;
+}
+.forum .lastedit {
+	color: white !important;
+}
+.ui.dropdown>.text {
+	color: white !important;
+}
+.ui.selection.visible.dropdown>.text:not(.default) {
+	color: lightgrey !important;
+}
+.ui.dropdown .menu>.header {
+    color: white !important;
+}
+.ui.pagination.menu {
+	background: #1e272e !important;
+	border: 1px solid #28333d !important;
+	box-shadow: 0 1px 2px 0 #28333d !important;
+}
+.ui.pagination.menu .item {
+	background-color: #28333d !important;
+}
+.ui.pagination.menu .active.item {
+	background-color: #212a32 !important;
+}
+.ui.breadcrumb .divider {
+	color: white !important;
+}
+.ui.breadcrumb a {
+    color: #a500e8 !important;
+}
+.rightpanel .ui.header small {
+    color: lightgray !important;
+}
+@media only screen and (max-width: 991px) {
+	.ui.modal>.close {
+		color: white !important;
+	}
+}
+.pinboard .column a {
+    color: white !important;
+}
+.ui.basic.grey.button, .ui.basic.grey.buttons .button {
+    box-shadow: inset 0 0 0 1px white !important;
+    color: white !important;
+}
+.messenger .buddylist .content, .messenger-mobile .buddylist .content {
+    color: #777777 !important;
+}
+.stream .description.truncate .layer {
+	background-image: linear-gradient(transparent, #28333d) !important;
+}
+.ui.toggle.checkbox input:checked~.box, .ui.toggle.checkbox input:checked~label {
+    color: white !important;
+}
+.ui.small.modal>.header:not(.ui) {
+    background-color: #28333d !important;
+}
+.ui.small.modal>.header:not(.ui)>span {
+    color: white !important;
+}
+.ui.modal>.actions {
+    background-color: #28333d !important;
+}
+.ui.form .field>.selection.dropdown>.dropdown.icon {
+    color: white !important;
+}
+.ui.modal > .header:not(.ui) {
+    background-color: #28333d !important;
+}
+.ui.modal > .header:not(.ui) > span {
+    color: white !important;
+}
