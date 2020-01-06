@@ -13,7 +13,7 @@ The design can be used on the desktop as well as in the mobile version of DBNA.
 
 Chrome, Firefox, Opera Next and Opera Developer users can easily install the addon using one of the following links:
 
-Chrome: https://chrome.google.com/webstore/detail/queerdarkmode/idckgaigjbhfbefegebmmomilfgccejc
+Chrome: https://chrome.google.com/webstore/detail/queerdarkmode/idckgaigjbhfbefegebmmomilfgccejc\
 Firefox: https://addons.mozilla.org/de/firefox/addon/queerdarkmode/  
 Opera (only Opera Next and Opera Developer): https://addons.opera.com/de/extensions/details/queerdarkmode/
 
