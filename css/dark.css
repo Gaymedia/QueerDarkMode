@@ -345,3 +345,13 @@ blockquote {
 blockquote {
     color: white !important;
 }
+div[id^='nat-jhdc'] {
+    background-color: #3d4751!important;
+    box-shadow: 0 6px 10px 0 #2f3840, 0 0 0 0px #2f3840 !important;
+}
+div[id^='nat-jhdc'] .natpl-title {
+    color: white !important;
+}
+div[id^='nat-jhdc'] .natpl-teaser {
+    color: white !important;
+}
