@@ -1,25 +1,28 @@
 # QueerDarkMode
 
-**Important note:** Neither I nor this project officially have anything to do with DBNA. I do not take any responsibility for the function, correctness and security of this code. The use of this code takes place at your own risk. 
+**Wichtiger Hinweis:** Weder ich noch dieses Projekt haben offiziell etwas mit DBNA zu tun. Ich übernehme keine Verantwortung für die Funktion, Richtigkeit und Sicherheit dieses Addons. Die Verwendung dieses Addons erfolgt auf eigene Gefahr. 
 
 
-## What is QueerDarkMode?
+## Was ist QueerDarkMode?
 
-QueerDarkMode is an browser extension for Google Chrome, Firefox and Opera, which offers the possibility to change the community design of the german queer-social platform DBNA. The extension comes with two different dark designs, which can be switched between by clicking on the toolbar icon. Here the design can also be temporarily deactivated.
+QueerDarkMode ist eine Browsererweiterung für Google Chrome, Firefox und Opera, die die Möglichkeit bietet, das Community Design der deutschen queer-sozialen Plattform DBNA zu verändern. Die Erweiterung wird mit zwei verschiedenen Dark Designs ausgeliefert, zwischen denen per Klick auf das Toolbar-Icon gewechselt werden kann. Hier kann das Design auch vorübergehend deaktiviert werden.
 
-The design can be used on the desktop as well as in the mobile version of DBNA.
+Das Design kann sowohl auf dem Desktop als auch in der mobilen Version von DBNA verwendet werden.
 
-## How can I install it?
+## Installation?
 
-Chrome, Firefox, Opera Next and Opera Developer users can easily install the addon using one of the following links:
+Benutzer von Chrome, Firefox, Opera Next und Opera Developer können das Addon einfach über einen der folgenden Links installieren:
 
 Chrome: https://chrome.google.com/webstore/detail/queerdarkmode/idckgaigjbhfbefegebmmomilfgccejc  
 Firefox: https://addons.mozilla.org/de/firefox/addon/queerdarkmode/  
-Opera (only Opera Next and Opera Developer): https://addons.opera.com/de/extensions/details/queerdarkmode/  
+Opera (nur Opera Next und Opera Developer): https://addons.opera.com/de/extensions/details/queerdarkmode/  
 
-**Opera Stable users please proceed as follows:**  
-To install, simply download the contents of the repository and extract it to a location on your hard drive. Next you have to activate the developer mode under chrome://extensions/ in the upper right corner. Then you can select the folder with the data by clicking the button "Load unpacked extension" in the upper left corner. That's it.
+**Opera Stable Benutzer gehen bitte wie folgt vor:**  
+Zur Installation einfach den Inhalt des Repositorys herunterladen und an einem Ort auf der Festplatte entpacken. Als nächstes den Entwicklermodus unter chrome://extensions/ in der oberen rechten Ecke aktivieren. Dann kann man mit einem Klick auf den Button "Entpackte Erweiterung laden" in der linken oberen Ecke den Ordner mit den Daten auswählen. Das war's.
 
-## License
+**Verwendung unter Android**
+Das Addon kann unter Android in Firefox verwendet werden. Die Installation erfolgt ebenfalls über den Addon-Store von Mozilla.
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
+## Lizenz
+
+Dieses Projekt ist unter der GNU General Public License v3.0 lizenziert - siehe die Datei [LICENSE](LICENSE) für Details
