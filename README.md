@@ -20,7 +20,7 @@ Opera (nur Opera Next und Opera Developer): https://addons.opera.com/de/extensio
 **Opera Stable Benutzer gehen bitte wie folgt vor:**  
 Zur Installation einfach den Inhalt des Repositorys herunterladen und an einem Ort auf der Festplatte entpacken. Als nächstes den Entwicklermodus unter chrome://extensions/ in der oberen rechten Ecke aktivieren. Dann kann man mit einem Klick auf den Button "Entpackte Erweiterung laden" in der linken oberen Ecke den Ordner mit den Daten auswählen. Das war's.
 
-**Verwendung unter Android**
+**Verwendung unter Android**  
 Das Addon kann unter Android in Firefox verwendet werden. Die Installation erfolgt ebenfalls über den Addon-Store von Mozilla.
 
 ## Lizenz
