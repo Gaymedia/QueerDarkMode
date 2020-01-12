@@ -34,6 +34,7 @@ i.grey.icon{
 }
 .ui.raised.card, .ui.raised.cards > .card{
     background-color: #3d4751!important;
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.3)!important;
 }
 .ui.card .meta, .ui.cards>.card .meta{
     color: white!important;
@@ -159,9 +160,6 @@ i.grey.icon{
 .messenger .wrapper .left-wrapper{
     background-color: #2f3840!important;
 }
-.messenger .wrapper .left-wrapper{
-    background-color: #2f3840!important
-}
 .messenger .wrapper .right-wrapper .right-inner{
     background-color: #2f3840!important
 }
@@ -208,9 +206,6 @@ i.grey.icon{
 .home .stream .content.text .truncate .layer {
 	background-image: linear-gradient(#00000000, #3d4751) !important;
 }
-.ui.raised.card, .ui.raised.cards > .card {
-	box-shadow: 0 6px 10px 0 #2f3840, 0 0 0 0px #2f3840 !important;
-}
 .ui.placeholder {
 	background-color: #3d4751 !important;
 }
@@ -248,10 +243,8 @@ i.grey.icon{
 	background-image: linear-gradient(to bottom, #3d4751 0%, #3d4751 100%) !important;
 }
 .ui.card, .ui.cards > .card {
-	box-shadow: 0 1px 3px 0 #4a5560, 0 0 0 1px #4a5560 !important;
-}
-blockquote {
-	background-color: #4a5560 !important;
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.3)!important;
+    background-color: #3d4751!important;
 }
 .forum.post blockquote p {
     color: white !important;
@@ -344,6 +337,7 @@ blockquote {
 }
 blockquote {
     color: white !important;
+    background-color: #4a5560 !important;
 }
 div[id^='nat-jhdc'] {
     background-color: #3d4751!important;
