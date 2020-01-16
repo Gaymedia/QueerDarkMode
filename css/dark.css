@@ -30,7 +30,12 @@ i.grey.icon{
     color: white!important
 }
 .ui.segment, .ui.segments .segment{
-    background-color: #3d4751!important
+    background-color: #3d4751!important;
+}
+.stream .ui.card.flat, .ui.raised.card, .forum .card.flat, .forum .ui.segment, .ui.segment.create, .forum .categories .catlabel{
+    background-color: #3d4751!important;
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.3)!important;
+    border-radius: 7px;
 }
 .ui.raised.card, .ui.raised.cards > .card{
     background-color: #3d4751!important;
@@ -340,8 +345,11 @@ blockquote {
     background-color: #4a5560 !important;
 }
 div[id^='nat-jhdc'] {
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.3)!important;
     background-color: #3d4751!important;
-    box-shadow: 0 6px 10px 0 #2f3840, 0 0 0 0px #2f3840 !important;
+}
+.ad.instream {
+    box-shadow: 0px 0px 3px 1px rgba(0,0,0,0.3)!important;
 }
 div[id^='nat-jhdc'] .natpl-title {
     color: white !important;

@@ -98,7 +98,6 @@ i.grey.icon{
     color: white!important;
     background-color: #28333d;
 }
-
 .ui.secondary.pointing.menu .active.item, .ui.secondary.pointing.menu .active.item{
     color: #b72bf1!important
 }
@@ -338,4 +337,7 @@ div[id^='nat-jhdc'] .natpl-title {
 }
 div[id^='nat-jhdc'] .natpl-teaser {
     color: white !important;
+}
+.ad.instream {
+    box-shadow: 1px 1px 5px 2px rgba(0,0,0, 0.20)!important;
 }
