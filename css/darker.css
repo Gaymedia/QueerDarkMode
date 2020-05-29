@@ -5,6 +5,7 @@ Variables for uniform values
     --back-color: #1e272e;
     --foreground-color: #28333d;
     --dark-accent: #232c34;
+    --dark-accent-hover: #20282f;
 
     --alternative-purple: #cc4cdb;
 
@@ -354,4 +355,79 @@ Modals
 .ui.modal>.actions,
 .ui.modal > .header:not(.ui){
     background-color: var(--foreground-color) !important;
+}
+
+/*
+New featured cards / embeds
+*/
+.story-embed_title, .story-embed_description{
+    color: rgba(255, 255, 255, 0.87)!important;
+}
+
+.story-embed_domain{
+    color: rgba(255, 255, 255, 0.4)!important;
+}
+
+
+.embeded > .ui.raised.card{
+    background-color: var(--dark-accent)!important;
+}
+
+/*
+Groups and group profiles
+*/
+.ui.raised.segment, .ui.raised.segments{
+    box-shadow: var(--shadow) !important;
+}
+
+.activityProfileBackLink{
+    color: white!important;
+    font-weight: 400;
+}
+
+.ui.feed.activity.page > .event{
+    background-color: var(--foreground-color)!important;
+}
+
+.stream .ui.card.flat > .content.likes.inline > div:last-child a .comments{
+    color: white!important;
+}
+
+/*
+Light buttons to dark
+*/
+.ui.button{
+    background: var(--dark-accent);
+    color: white!important;
+}
+.ui.button:hover{
+    background: var(--dark-accent-hover);
+}
+
+/*
+Quotes
+*/
+blockquote{
+    color: rgba(255,255,255,0.8)!important;
+    border-radius: 4px;
+}
+blockquote b, strong{
+    font-weight: 500!important;
+}
+blockquote:before{
+    color: var(--alternative-purple) !important;
+}
+
+/*
+Icon
+*/
+.ui.input .icon{
+    color: white;
+}
+
+/*
+Others
+*/
+.actions > a{
+    color: rgba(255,255,255,0.6)!important;
 }
