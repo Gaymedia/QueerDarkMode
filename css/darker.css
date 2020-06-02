@@ -431,3 +431,8 @@ Others
 .actions > a{
     color: rgba(255,255,255,0.6)!important;
 }
+
+.truncate::before{
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0, var(--foreground-color) 10%)!important;
+    color: var(--alternative-purple)!important;
+}
